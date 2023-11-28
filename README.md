@@ -4,7 +4,7 @@
  ### [3 Easy PowerShell Scripts For Remote Computer Management](https://medium.com/@dante.falls/3-easy-powershell-scripts-for-remote-computer-management-366db0576ec3)
 
 <h2>Description</h2>
-diskSpace.ps1 is a PowerShell script that identifies the amount of free disk space on a remote computer. This script is useful in a domain environment where you need to know the amount of free disk space on a remote computer in your domain.
+diskSpace.ps1 is a PowerShell script that retrieves the amount of available disk space on a remote computer. This script is useful in a domain environment where you need to know the amount of free disk space on a remote computer in your domain.
 Click on the medium articles above to learn how to use and deploy this script. I will also demonstrate the script, below. 
 <br />
 
